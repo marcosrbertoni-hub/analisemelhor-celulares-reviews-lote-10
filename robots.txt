@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcosrbertoni-hub.github.io/analisemelhor-celulares-reviews-lote-10/sitemap.xml
